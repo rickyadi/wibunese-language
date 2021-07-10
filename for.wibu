@@ -1,0 +1,8 @@
+# Contoh operasi perulangan for
+
+TOTTE i=0 NI 4 SONOGO INSATSU i
+
+INSATSU "Atau bisa juga seperti ini"
+
+a=4
+TOTTE i=0 NI 4 SONOGO INSATSU a+i

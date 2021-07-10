@@ -1,0 +1,6 @@
+# Contoh pembuatan fungsi
+
+KAN coba() -> INSATSU "Yōkoso!"
+
+coba()
+

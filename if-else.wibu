@@ -1,0 +1,6 @@
+# Contoh pembuatan if-else statement
+
+a = 5
+x = "Benar"
+y = "Salah"
+MOSHI a == 5 SONOGO INSATSU x SHIN INSATSU y
