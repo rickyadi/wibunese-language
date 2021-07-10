@@ -8,3 +8,12 @@ Kelompok 13 :
 
 Ricky aditya  (4611419007)
 Ahmad sulistyo wibowo (4611419085)
+
+#Command in wibunese-Lang
+    IF      = r'MOSHI'
+    PRINT   = r'INSATSU'
+    THEN    = r'SONOGO'
+    ELSE    = r'SHIN'
+    FOR     = r'TOTTE'
+    FUN     = r'KAN'
+    TO      = r'NI'
